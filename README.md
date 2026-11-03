@@ -17,11 +17,13 @@
 ![Установка Tampermonkey](https://github.com/janfichter/yandex-archive-downloader/blob/77979ba34f20dffd61f843b79747babb0efcfa63/images/2026-11-02_18-37-50.png?raw=true)
 
 ### Шаг 2: Добавление скрипта
-1. Кликните на иконку Tampermonkey в списке расширений и выберите **«Создать новый скрипт»**.
-2. Откройте в этом репозитории файл скрипта (например, `cgia-downloader.user.js`), выделите весь код (`Ctrl+A`) и скопируйте его (`Ctrl+C`).
-3. Вставьте скопированный код в редактор Tampermonkey и нажмите **Файл → Сохранить** (`Ctrl+S`).
+1. Кликните на иконку Tampermonkey в списке расширений и выберите "Создать новый скрипт".
+2. Откройте в репозитории файл script.js и скопируйте все его содержимое.
+3. Добавьте скопированный код в новый скрипт и нажмите Файл — Сохранить.
 
-![Окно установки скрипта](https://github.com/janfichter/cgia-moscow-downloader/blob/main/images/tampermonkey-editor.png?raw=true)
+![Окно установки скрипта](https://github.com/janfichter/yandex-archive-downloader/blob/main/images/2026-11-02_18-55-23.png?raw=true)
+
+   **Внимание! Проверьте чтобы ы настройках Tampermonkey была нажата галочка "Разрешить пользовательские скрипты".** Проверить можно нажав правой кнопкой мыши по иконке Tampermonkey и выбрав "Управление расширениями".
 
 ### Шаг 3: Как пользоваться
 1. Откройте страницу нужного дела на сайте [cgamos.ru](https://cgamos.ru/).
